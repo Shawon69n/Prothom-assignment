@@ -1,0 +1,59 @@
+h1{font-size: 50px}
+#h1-color{color: #6495ed;
+font-size: 50px}
+.half-width{width: 50%;
+padding-left: 50px;
+}
+.half-width-image{
+    width: 50%; padding-left: 100px; padding-top: 20px;
+}
+
+.flexible-container{display:flex;
+    margin-bottom: 100px;}
+
+.link-button{text-decoration: none;
+        padding: 10px 40px ; 
+        background-image: linear-gradient( rgb(219, 97, 27),rgb(255, 201, 119) );
+        border-radius: 7px;
+        color:rgb(0, 0, 0);
+        font-weight: 700;}
+
+#border1{background-color: #ffd85a;
+            width: 619px;
+            border: 10px solid #ffd85a;
+            border-radius: 8px;
+            padding: 0px;
+            margin: 100px;}
+ 
+ #my-missionH1{color: #6495ed ;}  
+ #my-mission-text{text-align: center;}         
+
+.image-small{
+    width: 200px;
+    margin: 2px;
+    padding: 5px;
+}
+
+.border-shadows{
+    box-shadow: 10px 10px 40px rgb(63, 214, 207); 
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5px;
+    padding-left: 2%;
+    border-radius: 20px;
+
+}
+
+.half-width-section2{
+    width: 50%;
+    margin: 30px;
+    background-color: darksalmon;
+}
+
+#border2{background-color: #ffd85a;
+    width: 640px;
+    border: 10px solid rgb(255, 216, 90);
+    border-radius: 8px;
+    padding: 0px;
+    margin: 100px;}
+

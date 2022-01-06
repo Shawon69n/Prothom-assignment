@@ -1,8 +1,8 @@
-body{background-color: beige;
+body{background-color: rgb(230, 230, 191);
 font-family: 'Montserrat', sans-serif;;
 }
 h1{font-size: 50px}
-#h1-color{color: #6495ed;
+.h1-color{color: #6495ed;
 font-size: 50px}
 .half-width{width: 50%;
 padding-left: 50px;
